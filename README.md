@@ -84,7 +84,5 @@ ls -t ~/Downloads/*.csv | head -n 1 | xargs open
 
 ## ⚠️ トラブルシューティング
 
-* **Photoshopで「ファイルを開く」ダイアログが出る**
-    * Photoshop側のスクリプト（JSX）に `app.open()` や `Folder.selectDialog()` が含まれていないか確認してください。シェルスクリプト連携時は `app.activeDocument` を対象にする必要があります。
 * **サーバーが見つからない**
     * Finderでサーバーがマウントされているか確認してください。
