@@ -6,10 +6,6 @@
 SERVER_ROOT="/Volumes/Job4D"
 SERVER_DONE_DIR="${SERVER_ROOT}/--済--"
 LOCAL_WORK_DIR="/Users/mac/Desktop/_登録作業用/*"
-PS_APP_NAME="Adobe Photoshop 2025"
-PS_ACTION_SET="画像登録_変換"
-PS_ACTION_NAME="ExtendScript"
-
 # ==========================================
 # 1. フォルダ検索
 # ==========================================
